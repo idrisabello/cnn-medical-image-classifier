@@ -98,8 +98,11 @@ Test Accuracy	 78.21%
 
 # Future Improvements
 Add more CNN layers to improve accuracy
+
 Use transfer learning with pretrained models like ResNet or VGG
+
 Implement Grad-CAM to visualize feature maps
+
 Deploy the model via a simple Flask or Streamlit app
 
 
