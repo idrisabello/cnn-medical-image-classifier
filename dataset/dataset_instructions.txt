@@ -1,0 +1,5 @@
+The dataset used in this project is the Chest X-Ray Pneumonia dataset from Kaggle: 
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+Due to GitHub file size limitations, only a small subset (10–20 images per class) is included for demonstration.
+To train on the full dataset, please download it from the link above and place it in the dataset/chest_xray folder with the same structure.
