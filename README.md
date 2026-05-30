@@ -108,7 +108,7 @@ Deploy the model via a simple Flask or Streamlit app
 
 # Author
 Idris Akande Bello
-Robotics • AI • ML • Deep Learning • Embedded Systems
+Bio-Robotics • AI • ML • Deep Learning 
 Speed Educational Consults, Nigeria
 akandeidrisbello@gmail.com
 
